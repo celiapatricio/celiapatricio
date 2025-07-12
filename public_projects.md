@@ -1,6 +1,6 @@
 ## 📖 Public Projects
 
-[🔙 Back to general summary](README.es.md)
+[🔙 Back to general summary](README.md)
 
 ### [2024] Peer-to-Peer File Distribution System
 
