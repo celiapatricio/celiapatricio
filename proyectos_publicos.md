@@ -1,6 +1,6 @@
 ## 📖 Proyectos Públicos
 
-[🔙 Volver al resumen general](README.md)
+[🔙 Volver al resumen general](README.es.md)
 
 ### [2024] Sistema Peer-to-peer de Distribución de Ficheros.
 

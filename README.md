@@ -1,54 +1,55 @@
-# ¡Hola! Soy Celia Patricio Ferrer.
+# Hi there! I'm Celia Patricio Ferrer.
 
-Actualmente estoy terminando **Ingeniería Informática** en la Universidad Carlos III de Madrid.
+([Versión en Español](README.es.md))
 
-
-## 🎓 Formación Académica
-
-- **Grado en Ingeniería Informática** – Universidad Carlos III de Madrid (UC3M)  
-  *(2019 – 2025, incluyendo movilidad)*  
-- **Computer Science** – Purdue University (EE. UU.) – Programa de movilidad internacional  
-  *(2024 – 2025, 4º año de carrera)*
+I am currently finishing my **Bachelor’s Degree in Computer Science & Engineering** at *Universidad Carlos III de Madrid*.
 
 
-## 📍 Proyectos Destacados
+## 🎓 Academic Background
 
-En está sección se incluyen todos los proyectos en los que he colaborado y que he llevado a cabo a lo largo de toda mi educación.
+- **Bachelor's Degree in Computer Science & Engineering** – Universidad Carlos III de Madrid (UC3M)  
+  *(2019 – 2025, including exchange program)*  
+- **Bachelor in Computer Science** – Purdue University (USA) – International Exchange Program  
+  *(2024 – 2025, 4th year of the degree)*
 
-- [Proyectos con repositorio público](proyectos_publicos.md)
+## 📍 Highlighted Projects
 
-- [Más proyectos con repositorio privado](proyectos_privados.md)
+This section includes all the projects I’ve worked on and collaborated with throughout my academic journey.
+
+- [Projects with public repositories](public_projects.md)
+
+- [More projects with private repositories](private_projects.md)
 
 
-## 💻 Tecnologías y Herramientas
+## 💻 Technologies and Tools
 
-- Lenguajes
-    
-    ![Langs](https://skillicons.dev/icons?i=c,cpp,python,java,js,php,r,bash)
+- **Programming Languages**
 
-- Desarrollo Web
-    
-    ![Web](https://skillicons.dev/icons?i=html,css,jquery,nodejs,npm)
+  ![Langs](https://skillicons.dev/icons?i=c,cpp,python,java,js,php,r,bash)
 
-- IA & Ciencia de Datos
-    
-    ![AI](https://skillicons.dev/icons?i=pytorch,tensorflow,scikit-learn)
+- **Web Development**
 
-- Entornos y Editores
-    
-    ![IDEs](https://skillicons.dev/icons?i=vscode,pycharm,clion,anaconda)
+  ![Web](https://skillicons.dev/icons?i=html,css,jquery,nodejs,npm)
 
-- Bases de Datos
-    
-    ![DB](https://skillicons.dev/icons?i=mysql,sqlite)
+- **AI & Data Science**
 
-- Sistemas Operativos y Plataformas
-    
-    ![OS](https://skillicons.dev/icons?i=apple,linux,ubuntu,windows,raspberrypi)
+  ![AI](https://skillicons.dev/icons?i=pytorch,tensorflow,scikit-learn)
 
-- Otros
-    
-    ![Tools](https://skillicons.dev/icons?i=git,github,figma,discord)
+- **Environments and IDEs**
+
+  ![IDEs](https://skillicons.dev/icons?i=vscode,pycharm,clion,anaconda)
+
+- **Databases**
+
+  ![DB](https://skillicons.dev/icons?i=mysql,sqlite)
+
+- **Operating Systems and Platforms**
+
+  ![OS](https://skillicons.dev/icons?i=apple,linux,ubuntu,windows,raspberrypi)
+
+- **Others**
+
+  ![Tools](https://skillicons.dev/icons?i=git,github,figma,discord)
 
 
 ## 📊 GitHub Stats
@@ -60,7 +61,7 @@ En está sección se incluyen todos los proyectos en los que he colaborado y que
 ![GitHub Streak](https://streak-stats.demolab.com?user=celiapatricio&theme=material-palenight)
 
 
-## 📞 Contacto
+## 📞 Contact
 
 <p>
     <a href="mailto:cpatricioferrer@gmail.com">

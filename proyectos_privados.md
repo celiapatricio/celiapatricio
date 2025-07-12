@@ -1,10 +1,6 @@
 ## 🔒 Proyectos Privados
 
-[🔙 Volver al resumen general](README.md)
-
-
-
-
+[🔙 Volver al resumen general](README.es.md)
 
 ### [2024] Compilador de AJS.
 
