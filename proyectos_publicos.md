@@ -272,5 +272,24 @@ Funcionalidades implementadas:
     
     Permite rotar la lista: Si left=True: mueve los primeros n nodos al final. Si left=False: mueve los últimos n nodos al inicio. Usa una lista auxiliar y actualiza los punteros de forma eficiente.
 
+2. Fase 2: Operaciones sobre árboles binarios de búsqueda (`BST2`)
+
+En esta segunda fase se implementa la clase `BST2`, una extensión de los árboles binarios de búsqueda (`BinarySearchTree`), que incorpora métodos avanzados para análisis y manipulación de árboles, como el cálculo de distancias entre nodos y la combinación de árboles mediante operaciones de conjunto. Se utilizan árboles AVL como estructura de salida para mantener el equilibrio.
+
+Funcionalidades implementadas:
+- `find_dist_k(n, k)`
+
+    Devuelve una lista con todos los nodos del árbol que se encuentran exactamente a una distancia `k` del nodo con valor `n`. Para ello, se localiza el nodo objetivo y se calcula la distancia con cada otro nodo del árbol, considerando su ancestro común más bajo (LCA) y la suma de profundidades relativas. Utiliza una búsqueda recursiva combinada con funciones auxiliares.
+
+- `create_tree(input_tree1, input_tree2, opc)`
+
+    Genera un nuevo árbol AVL como resultado de aplicar una operación de conjunto entre dos árboles de entrada (`input_tree1`, `input_tree2`), según el parámetro `opc`. Las operaciones soportadas son:
+  
+    - `merge`: Devuelve un árbol que contiene la unión de los elementos de ambos árboles.
+    - `intersection`: Devuelve un árbol con los elementos comunes a ambos árboles.
+    - `difference`: Devuelve un árbol con los elementos que están en el primer árbol pero no en el segundo.
+
+    Cada operación recorre los nodos de entrada de forma recursiva e inserta los elementos apropiados en el árbol AVL resultante.
+
 [*Repositorio Estructuras de Datos y Algoritmos*](https://github.com/celiapatricio/estructura-datos-algoritmos.git)
 

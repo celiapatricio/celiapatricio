@@ -176,6 +176,7 @@ Funcionalidades principales:
 
 [*Repositorio MDP Termostato*](https://github.com/celiapatricio/practica_termostato.git)
 
+
 ### [2023] Proyecto enfocado al Desarrollo de Software.
 
 [PRIVADO] Este conjunto de ejercicios aborda distintas competencias fundamentales en el desarrollo de software, combinando aspectos técnicos y éticos. Permiten demostrar lo aprendido poniéndolo en práctica, y proporcionan una base sólida para el desarrollo de software ético, estructurado y mantenible.

@@ -24,7 +24,6 @@ Implemented features:
 
 [*AJS Compiler Repository*](https://github.com/NathaliaMoniz/P2-Practica-Final-PDL.git)
 
----
 
 ### [2024] Lexical and Syntax Analyzer for AJSON
 
@@ -47,7 +46,6 @@ This project consists of building a lexical and syntax analyzer for a JSON-like 
 
 [*AJSON Analyzer Repository*](https://github.com/NathaliaMoniz/P1-Introduccion-PDL.git)
 
----
 
 ### [2023] Constraint Satisfaction and Heuristic Search
 
@@ -84,9 +82,8 @@ This project consists of building a lexical and syntax analyzer for a JSON-like 
        - Limited energy (50 units)
      - Heuristic: Manhattan distance to base
 
-[*Constraint Satisfaction & Heuristic Search Repo*](https://github.com/celiapatricio/p2-471979-471948.git)
+[*Constraint Satisfaction & Heuristic Search Repository*](https://github.com/celiapatricio/p2-471979-471948.git)
 
----
 
 ### [2023] Pixar Bites Website
 
@@ -114,9 +111,8 @@ Features:
 
 - Dynamic promotions (`promociones.html`)
 
-[*Pixar Bites Web Repo*](https://github.com/Nachofc333/ProyectoInterfaces.git)
+[*Pixar Bites Web Repository*](https://github.com/Nachofc333/ProyectoInterfaces.git)
 
----
 
 ### [2023] Linear Programming: Optimal Call Center Planning
 
@@ -150,9 +146,8 @@ Features:
      - Build L4 and L5, skip L6
      - All constraints met
 
-[*Linear Programming Project Repo*](https://github.com/celiapatricio/p1-471979-471948.git)
+[*Linear Programming Project Repository*](https://github.com/celiapatricio/p1-471979-471948.git)
 
----
 
 ### [2023] Optimal Thermostat Control with Dynamic Programming
 
@@ -164,9 +159,8 @@ Main features:
 - Computes optimal policy using Bellman equations
 - Step-by-step simulation with user input (time and state)
 
-[*Thermostat MDP Repo*](https://github.com/celiapatricio/practica_termostato.git)
+[*Thermostat MDP Repository*](https://github.com/celiapatricio/practica_termostato.git)
 
----
 
 ### [2023] Software Development Project
 
@@ -201,4 +195,4 @@ Main features:
    - Adapts to PEP8 with `pylint`
    - Tracks changes via GitHub commits and XML tests
 
-   [*Refactoring & Design Repo*](https://github.com/100471979/G80.2023.T10.EG4.git)
+   [*Refactoring & Design Repository*](https://github.com/100471979/G80.2023.T10.EG4.git)
