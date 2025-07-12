@@ -102,14 +102,16 @@ Estructura del sistema:
 
 Funcionalidades implementadas:
 
-- Interacciones ubicuas
+- Interacciones ubicuas:
+
     1. Agregar producto al carrito → Escaneando un código QR desde la carpeta `QR`.
     2. Eliminar producto → Haciendo click sobre el producto y agitando el dispositivo.
     3. Marcar como favorito → Doble click sobre un producto.
     4. Ordenar carrito → Arrastrar productos hacia arriba/abajo mediante gestos táctiles.
     5. Pago por proximidad (NFC + Bluetooth LE) → Conexión con una caja simulada mediante *nRF Connect* usando `heart_rate` como servicio Bluetooth. El pago se efectúa acercando el móvil del cliente a este dispositivo.
 
-- Funcionalidades adicionales
+- Funcionalidades adicionales:
+
     6. Inicio de sesión y registro para clientes y empleados → Validación de contraseñas, persistencia en archivos `.json`.
     7. Sistema de preguntas/respuestas en tiempo real → Cliente envía dudas por voz o texto; el empleado responde y ambas interfaces se sincronizan vía WebSocket.
     8. Cupones desbloqueables por movimiento → Los cupones aparecen al agitar el móvil, y se aplican automáticamente en el pago.

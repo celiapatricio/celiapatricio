@@ -98,14 +98,16 @@ System structure:
 
 Implemented features:
 
-- Ubiquitous interactions
+- Ubiquitous interactions:
+
     1. Add product to cart → Scanning a QR code from the `QR` folder.
     2. Remove product → Clicking on the product and shaking the device.
     3. Mark as favorite → Double-clicking on a product.
     4. Sort cart → Dragging products up/down using touch gestures.
     5. Proximity payment (NFC + Bluetooth LE) → Connection to a simulated checkout using *nRF Connect* and the `heart_rate` Bluetooth service. Payment is made by bringing the customer’s phone close to this device.
 
-- Additional features
+- Additional features:
+
     6. Login and registration for customers and employees → Password validation, persistence in `.json` files.
     7. Real-time Q&A system → Customer sends voice or text questions; the employee responds and both interfaces sync via WebSocket.
     8. Coupons unlocked by movement → Coupons appear when shaking the phone and are automatically applied at checkout.
