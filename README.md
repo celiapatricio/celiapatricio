@@ -1,6 +1,6 @@
-# ¡Hola 👋! Soy Celia Patricio Ferrer.
+# ¡Hola! Soy Celia Patricio Ferrer.
 
-Actualmente soy estudiante de 4º de **Ingeniería Informática** en la Universidad Carlos III de Madrid.
+Actualmente estoy terminando **Ingeniería Informática** en la Universidad Carlos III de Madrid.
 
 
 ## 🎓 Formación Académica
@@ -13,7 +13,11 @@ Actualmente soy estudiante de 4º de **Ingeniería Informática** en la Universi
 
 ## 📍 Proyectos Destacados
 
-*Actualizando...*
+En está sección se incluyen todos los proyectos en los que he colaborado y que he llevado a cabo a lo largo de toda mi educación.
+
+- [Proyectos con repositorio público](proyectos_publicos.md)
+
+- [Más proyectos con repositorio privado](proyectos_privados.md)
 
 
 ## 💻 Tecnologías y Herramientas
