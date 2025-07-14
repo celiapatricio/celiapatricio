@@ -53,7 +53,7 @@ Este proyecto consiste en el desarrollo de un analizador léxico y sintáctico p
 
 ### [2023] Problemas de Satisfacción de Restricciones y Búsqueda Heurística.
 
-[PRIVADO] Este proyecto se compone de dos partes diferenciadas, cada una centrada en resolver un problema mediante técnicas de satisfacción de restricciones y búsqueda heurística, respectivamente.
+Este proyecto se compone de dos partes diferenciadas, cada una centrada en resolver un problema mediante técnicas de satisfacción de restricciones y búsqueda heurística, respectivamente.
 
 1. *[Nov 2023]* Satisfacción de Restricciones: Asignación de ambulancias a plazas de parking.
 
@@ -96,7 +96,7 @@ Este proyecto consiste en el desarrollo de un analizador léxico y sintáctico p
 
 ### [2023] Página web del restaurante ficticio Pixar Bites.
 
-[PRIVADO] Este proyecto consiste en el desarrollo de una aplicación web interactiva y responsive para un restaurante ficticio y temático llamado *Pixar Bites*. El objetivo principal es aplicar conocimientos de diseño web, experiencia de usuario, accesibilidad y estructura modular en HTML, CSS y JavaScript. 
+Este proyecto consiste en el desarrollo de una aplicación web interactiva y responsive para un restaurante ficticio y temático llamado *Pixar Bites*. El objetivo principal es aplicar conocimientos de diseño web, experiencia de usuario, accesibilidad y estructura modular en HTML, CSS y JavaScript. 
 
 Tiene como finalidad educativa poner en práctica los Principios de Diseño Web, las Heurísticas de Usabilidad de Nielsen y los Patrones de Diseño de Interfaces de Usuario, integrándolos en una experiencia web accesible, coherente y atractiva.
 
@@ -127,7 +127,7 @@ Funcionalidades implementadas:
 
 ### [2023] Programación Lineal: Planificación óptima de centros de atención telefónica.
 
-[PRIVADO] Esta práctica aborda la formulación y resolución de dos problemas de optimización entera en el contexto de la asignación de llamadas telefónicas a localizaciones de atención, con restricciones de capacidad, tiempo de respuesta y balance de carga. Se utiliza programación lineal entera mixta para encontrar soluciones óptimas que minimicen el tiempo o coste total del sistema.
+Esta práctica aborda la formulación y resolución de dos problemas de optimización entera en el contexto de la asignación de llamadas telefónicas a localizaciones de atención, con restricciones de capacidad, tiempo de respuesta y balance de carga. Se utiliza programación lineal entera mixta para encontrar soluciones óptimas que minimicen el tiempo o coste total del sistema.
 
 1. *[Oct 2023]* Distribución con tres localizaciones existentes.
 
@@ -164,7 +164,7 @@ Funcionalidades implementadas:
 
 ### [2023] Control óptimo de un Termostato con Programación Dinámica.
 
-[PRIVADO] Esta práctica implementa una simulación para optimizar el uso de un termostato, utilizando técnicas de programación dinámica y simulación estocástica. El sistema toma decisiones automáticas para encender o apagar el termostato con el objetivo de alcanzar un estado final (temperatura objetivo) minimizando el coste energético.
+Esta práctica implementa una simulación para optimizar el uso de un termostato, utilizando técnicas de programación dinámica y simulación estocástica. El sistema toma decisiones automáticas para encender o apagar el termostato con el objetivo de alcanzar un estado final (temperatura objetivo) minimizando el coste energético.
 
 Funcionalidades principales:
 
@@ -179,7 +179,7 @@ Funcionalidades principales:
 
 ### [2023] Proyecto enfocado al Desarrollo de Software.
 
-[PRIVADO] Este conjunto de ejercicios aborda distintas competencias fundamentales en el desarrollo de software, combinando aspectos técnicos y éticos. Permiten demostrar lo aprendido poniéndolo en práctica, y proporcionan una base sólida para el desarrollo de software ético, estructurado y mantenible.
+Este conjunto de ejercicios aborda distintas competencias fundamentales en el desarrollo de software, combinando aspectos técnicos y éticos. Permiten demostrar lo aprendido poniéndolo en práctica, y proporcionan una base sólida para el desarrollo de software ético, estructurado y mantenible.
 
 1. *[Ene 2023]* Aspectos Éticos y Legales de la Ingeniería del Software
 

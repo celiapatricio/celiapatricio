@@ -49,7 +49,7 @@ This project consists of building a lexical and syntax analyzer for a JSON-like 
 
 ### [2023] Constraint Satisfaction and Heuristic Search
 
-[PRIVATE] This project is composed of two parts, each addressing a problem through constraint satisfaction and heuristic search techniques.
+This project is composed of two parts, each addressing a problem through constraint satisfaction and heuristic search techniques.
 
 1. *[Nov 2023]* Constraint Satisfaction: Ambulance parking assignment.
 
@@ -87,7 +87,7 @@ This project consists of building a lexical and syntax analyzer for a JSON-like 
 
 ### [2023] Pixar Bites Website
 
-[PRIVATE] A responsive, interactive web app for a fictional restaurant called *Pixar Bites*. Educational goal: apply web design, UX, accessibility, and modular HTML/CSS/JS structure.
+A responsive, interactive web app for a fictional restaurant called *Pixar Bites*. Educational goal: apply web design, UX, accessibility, and modular HTML/CSS/JS structure.
 
 Features:
 
@@ -116,7 +116,7 @@ Features:
 
 ### [2023] Linear Programming: Optimal Call Center Planning
 
-[PRIVATE] Two optimization problems regarding call assignment to locations, minimizing total response time or cost. Solved with mixed integer linear programming.
+Two optimization problems regarding call assignment to locations, minimizing total response time or cost. Solved with mixed integer linear programming.
 
 1. *[Oct 2023]* Assignment with 3 existing locations
 
@@ -151,7 +151,7 @@ Features:
 
 ### [2023] Optimal Thermostat Control with Dynamic Programming
 
-[PRIVATE] Simulates thermostat behavior using dynamic programming to reach a target state (22.0°C) with minimal energy cost.
+Simulates thermostat behavior using dynamic programming to reach a target state (22.0°C) with minimal energy cost.
 
 Main features:
 
@@ -164,7 +164,7 @@ Main features:
 
 ### [2023] Software Development Project
 
-[PRIVATE] A set of exercises covering essential software development topics, both technical and ethical.
+A set of exercises covering essential software development topics, both technical and ethical.
 
 1. *[Jan 2023]* Ethics and Legal Aspects
 

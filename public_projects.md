@@ -232,7 +232,7 @@ Technologies and features implemented:
 
 ### [2023] 2D Fluid Dynamics Simulation in C++
 
-[PUBLIC] This project aims to develop a 2D fluid dynamics simulation that represents the motion and evolution of particles within a spatial grid over time. The program runs from the command line and takes a binary file as input, containing the initial configuration of the simulation domain and particles. It outputs another binary file with the results of the simulation.
+This project aims to develop a 2D fluid dynamics simulation that represents the motion and evolution of particles within a spatial grid over time. The program runs from the command line and takes a binary file as input, containing the initial configuration of the simulation domain and particles. It outputs another binary file with the results of the simulation.
 
 [*Fluid Simulation Repository*](https://github.com/GLuis189/PracticaAC.git)
 

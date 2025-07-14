@@ -241,7 +241,7 @@ Tecnologías y características implementadas
 
 ### [2023] Simulación de Dinámica de Fluidos en C++.
 
-[PUBLICO] Este proyecto tiene como objetivo desarrollar una simulación de dinámica de fluidos 2D, en la que se representa el movimiento y evolución de partículas dentro de una malla espacial a lo largo del tiempo. El programa se ejecuta desde línea de comandos y toma como entrada un fichero binario con la configuración inicial del dominio de simulación y las partículas, devolviendo como salida otro fichero binario con los resultados de la evolución.
+Este proyecto tiene como objetivo desarrollar una simulación de dinámica de fluidos 2D, en la que se representa el movimiento y evolución de partículas dentro de una malla espacial a lo largo del tiempo. El programa se ejecuta desde línea de comandos y toma como entrada un fichero binario con la configuración inicial del dominio de simulación y las partículas, devolviendo como salida otro fichero binario con los resultados de la evolución.
 
 [*Repositorio Simulación de Fluidos*](https://github.com/GLuis189/PracticaAC.git)
 
