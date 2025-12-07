@@ -2,7 +2,18 @@
 
 ([Versión en Español](README.es.md))
 
-I am currently finishing my **Bachelor’s Degree in Computer Science & Engineering** at *Universidad Carlos III de Madrid*.
+I am a **Computer Science & Engineering** graduate from *Universidad Carlos III de Madrid*. 
+
+
+## 💼 Experience
+
+- **Data & AI Engineer** – Orange Business Spain, MasOrange  
+  *Nov 2025 – Present*  
+  Working on data- and AI-driven solutions to support business processes and decision making.
+
+- **Undergraduate Researcher** – RSSys Lab, Purdue University  
+  *Jan 2025 – May 2025*  
+  Explored the application of **Large Language Models (LLMs)** to support developers in resolving compilation errors.
 
 
 ## 🎓 Academic Background
@@ -12,13 +23,25 @@ I am currently finishing my **Bachelor’s Degree in Computer Science & Engineer
 - **Bachelor in Computer Science** – Purdue University (USA) – International Exchange Program  
   *(2024 – 2025, 4th year of the degree)*
 
-## 📍 Highlighted Projects
+
+## 📚 Highlighted Projects
 
 This section includes all the projects I’ve worked on and collaborated with throughout my academic journey.
 
 - [Projects with public repositories](public_projects.md)
 
 - [More projects with private repositories](private_projects.md)
+
+### Final Degree Project
+
+My Final Degree Project focuses on the use of **Large Language Models (LLMs)** in **Automatic Program Repair (APR)**. The project compares two LLM-assisted repair approaches:
+
+1. A linear method based on direct prompts  
+2. An iterative method that incorporates progressive feedback on errors
+
+The aim is to analyze the **performance**, **computational cost**, and **practical limitations** of each approach, such as generating plausible but incorrect patches or relying on incomplete datasets.
+
+In addition, the project uses *open-source* models and **Low-Rank Adaptation (LoRA)** techniques to specialize a model in repairing errors located within a single function, improving patch quality without requiring full fine-tuning. The results show that combining LoRA with an iterative workflow increases the accuracy of generated patches without significantly increasing resource usage.
 
 
 ## 💻 Technologies and Tools
