@@ -9,7 +9,6 @@ I am a **Computer Science & Engineering** graduate from *Universidad Carlos III 
 
 - **Data & AI Engineer** – Orange Business Spain, MasOrange  
   *Nov 2025 – Present*  
-  Working on data- and AI-driven solutions to support business processes and decision making.
 
 - **Undergraduate Researcher** – RSSys Lab, Purdue University  
   *Jan 2025 – May 2025*  

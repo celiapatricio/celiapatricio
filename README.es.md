@@ -7,7 +7,6 @@ Soy graduada en **Ingeniería Informática** por la Universidad Carlos III de Ma
 
 - **Data & AI Engineer** – Orange Business Spain, MasOrange
   *Nov 2025 – Actualidad*
-  Trabajo en soluciones basadas en datos e inteligencia artificial para apoyar procesos de negocio y la toma de decisiones.
 
 - **Investigadora de Grado** – RSSys Lab, Purdue University
   *Ene 2025 – May 2025*
