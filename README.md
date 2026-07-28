@@ -10,17 +10,19 @@ I am a **Computer Science & Engineering** graduate from *Universidad Carlos III 
 - **Data & AI Engineer** – Orange Business Spain, MasOrange  
   *Nov 2025 – Present*  
 
-- **Undergraduate Researcher** – RSSys Lab, Purdue University  
+- **Undergraduate Researcher** – RSSys Lab (Purdue University)
   *Jan 2025 – May 2025*  
   Explored the application of **Large Language Models (LLMs)** to support developers in resolving compilation errors.
 
 
 ## 🎓 Academic Background
 
+- **Master in Applied Artificial Intelligence** – Universidad Carlos III de Madrid (UC3M)
+  *(2026 – 2028)*
 - **Bachelor's Degree in Computer Science & Engineering** – Universidad Carlos III de Madrid (UC3M)  
-  *(2019 – 2025, including exchange program)*  
-- **Bachelor in Computer Science** – Purdue University (USA) – International Exchange Program  
-  *(2024 – 2025, 4th year of the degree)*
+  *(2019 – 2025, including exchange program)*
+- **Bachelor's Degree in Computer Science** – Purdue University (USA) – International Exchange Program
+  *(2024 – 2025, 4th year)*
 
 
 ## 📚 Highlighted Projects
@@ -73,14 +75,6 @@ In addition, the project uses *open-source* models and **Low-Rank Adaptation (Lo
 
   ![Tools](https://skillicons.dev/icons?i=git,github,figma,discord)
 
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=celiapatricio&show_icons=true&theme=material-palenight&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=celiapatricio&layout=donut&langs_count=20&hide_progress=false&count_private=true&show_icons=true&hide=jupyter%20notebook&theme=material-palenight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=celiapatricio&theme=material-palenight)
 
 
 ## 📞 Contact
