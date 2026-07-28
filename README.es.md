@@ -15,10 +15,12 @@ Soy graduada en **Ingeniería Informática** por la Universidad Carlos III de Ma
 
 ## 🎓 Formación Académica
 
-- **Grado en Ingeniería Informática** – Universidad Carlos III de Madrid (UC3M)  
-  *(2019 – 2025, incluyendo movilidad)*  
-- **Computer Science** – Purdue University (EE. UU.) – Programa de movilidad internacional  
-  *(2024 – 2025, 4º año de carrera)*
+- **Master en Inteligencia Artificial Aplicada** – Universidad Carlos III de Madrid (UC3M)
+  *(2026 – 2028)*  
+- **Grado en Ingeniería Informática** – Universidad Carlos III de Madrid (UC3M)
+  *(2019 – 2025, incluyendo movilidad)*
+- **Computer Science** – Purdue University (EE. UU.) – Programa de movilidad internacional
+  *(2024 – 2025, 4º de carrera)*
 
 
 ## 📚 Proyectos Destacados
@@ -70,15 +72,6 @@ Además, se utilizan modelos *open-source* y técnicas de **Low-Rank Adaptation 
 - Otros
     
     ![Tools](https://skillicons.dev/icons?i=git,github,figma,discord)
-
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=celiapatricio&show_icons=true&theme=material-palenight&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=celiapatricio&layout=donut&langs_count=20&hide_progress=false&count_private=true&show_icons=true&hide=jupyter%20notebook&theme=material-palenight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=celiapatricio&theme=material-palenight)
 
 
 ## 📞 Contacto
