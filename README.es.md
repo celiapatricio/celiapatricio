@@ -16,10 +16,10 @@ Soy graduada en **Ingeniería Informática** por la Universidad Carlos III de Ma
 ## 🎓 Formación Académica
 
 - **Master en Inteligencia Artificial Aplicada** – Universidad Carlos III de Madrid (UC3M)
-  *(2026 – 2028)*
+  *(2026 – Actualidad)*
 
 - **Grado en Ingeniería Informática** – Universidad Carlos III de Madrid (UC3M)
-  *(2019 – 2025, incluyendo movilidad)*
+  *(2021 – 2025, incluyendo movilidad)*
 
 - **Computer Science** – Purdue University (EE. UU.) – Programa de movilidad internacional
   *(2024 – 2025, 4º de carrera)*
