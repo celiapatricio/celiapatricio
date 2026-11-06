@@ -18,10 +18,10 @@ I am a **Computer Science & Engineering** graduate from *Universidad Carlos III 
 ## 🎓 Academic Background
 
 - **Master in Applied Artificial Intelligence** – Universidad Carlos III de Madrid (UC3M)
-  *(2026 – 2028)*
+  *(2026 – Present)*
   
 - **Bachelor's Degree in Computer Science & Engineering** – Universidad Carlos III de Madrid (UC3M)  
-  *(2019 – 2025, including exchange program)*
+  *(2021 – 2025, including exchange program)*
   
 - **Bachelor's Degree in Computer Science** – Purdue University (USA) – International Exchange Program
   *(2024 – 2025, 4th year)*
